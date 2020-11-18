@@ -1,2 +1,4 @@
 First commit
 Master line
+Add new line
+Last line
